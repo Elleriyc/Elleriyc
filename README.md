@@ -1,13 +1,13 @@
-<!-- 👋 Animated header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0096FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Cycy (Elleriyc) ;🚀+DevOps+Engineer+in+training;⚙️+Kubernetes+%7C+FastAPI+%7C+Docker+%7C+CI%2FCD;🌍+Based+in+France+%7C+Open+to+the+world" alt="Typing SVG" />
+  <h1>👋 Hi, I'm Elleriyc — DevOps Engineer in training</h1>
+  <p>🚀 Kubernetes | FastAPI | Docker | GitLab CI/CD</p>
 </div>
 
 ---
 
-# 👩‍💻 Cycy
+# 👩‍💻 Elleriyc
 
-🎓 Final-year **Computer Science MSc student** | 🌐 **DevOps enthusiast**  
+🎓 Final-year **Computer Science master's** | 🌐 **DevOps enthusiast**  
 💡 Passionate about **automation**, **cloud infrastructure**, and **scalable systems**
 
 ---
