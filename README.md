@@ -15,11 +15,11 @@
 ## 🌐 About Me / À propos de moi
 
 🇫🇷 **FR**  
-Étudiante en dernière année d’un mastère en informatique, je me spécialise dans le **DevOps** et les technologies cloud.  
+Étudiante en dernière année d’un mastère en informatique en alternance, je me spécialise dans le **DevOps** et les technologies cloud.  
 J’aime concevoir des systèmes **automatisés**, **fiables** et **scalables**, tout en explorant des outils modernes comme **Kubernetes**, **FastAPI**, **Docker**, et **GitLab CI/CD**.  
 
 🇬🇧 **EN**  
-I’m currently completing my MSc in Computer Science with a focus on **DevOps and cloud systems**.  
+I’m currently completing my master's in Computer Science in **an apprenticeship** with a focus on **DevOps and cloud systems**.  
 I enjoy building **automated**, **resilient**, and **scalable** infrastructures while experimenting with tools such as **Kubernetes**, **FastAPI**, **Docker**, and **GitLab CI/CD**.
 
 ---
@@ -71,9 +71,9 @@ I enjoy building **automated**, **resilient**, and **scalable** infrastructures 
 
 <div align="center">
 
-![Elleriyc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elleriycs&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elleriycs&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elleriycs&theme=tokyo-night&hide_border=true)
+![Elleriyc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elleriyc&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elleriyc&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elleriyc&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -82,7 +82,7 @@ I enjoy building **automated**, **resilient**, and **scalable** infrastructures 
 ## 📫 Contact
 
 🌍 [GitHub](https://github.com/Elleriyc)  
-💼 [LinkedIn](https://www.linkedin.com/in/cyrielle-ndongo) *(optional)*  
+💼 [LinkedIn](https://www.linkedin.com/in/cyrielle-ndongo)  
 
 ---
 
